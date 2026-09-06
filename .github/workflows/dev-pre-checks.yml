@@ -1,4 +1,4 @@
-name: Python Kubernetes CI
+name: dev-pre-checks.yml
 
 on:
   pull_request:
