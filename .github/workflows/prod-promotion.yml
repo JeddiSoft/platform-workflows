@@ -12,6 +12,7 @@ jobs:
       packages: read
 
     steps:
+
       - name: Generate platform automation token
         id: app-token
         uses: actions/create-github-app-token@v2
